@@ -1,1 +1,0 @@
-PuntoSwitcherSetup.exe  /quiet /msicl "MSIFASTINSTALL=7 ILIGHT=0 YABROWSER="n" YBSENDSTAT="n" YBDEFAULT="n" YAHOMEPAGE="n" YAQSEARCH="n""
